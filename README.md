@@ -1,4 +1,4 @@
-# FirstProject_in_C
+# Student-Management
 This is my first project in C. This program processes data about students and it was created to execute the following requirements:
 
 1. In the program, access is allowed through authentication
